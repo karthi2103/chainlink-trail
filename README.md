@@ -17,7 +17,7 @@ The project is a lighter version of the chainlink integrations framework and is 
 - zero log for logging
 - viper for config management
 - infura to connect to mainnet
-- solana 6.12 to generate go smart contract binding
+- solidity 6.12 to generate go smart contract binding
 
 ## Running Tests
 
